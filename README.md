@@ -38,6 +38,10 @@ That wasn't really a question, but we will answer it anyways.  This is an exampl
 
 Email that person, and try to work it out.  Email the owners of the community, and alert them.  Whatever do you, do not make a scene, as that will burden the entire community with your issue.  If it's truly a problem and you're truly an asset to the community then you will probably get an email back. Sometimes, you have to be the bigger person.  Say your piece privately, and don't dwell on it.  Remember, this is not the time or place to start these kind of discussions.  If someone else did this to you, that is unclassy, but there is only so much a moderator and personal discussion can accomplish.  I am afraid that bringing to a larger group will be of poor form, and not helpful.
 
+#### Q: What about off topic chatter?
+
+Off topic chatter should be discouraged, but not censored. NCoC is targeting things like open source projects and public online communities based around specific topics.
+
 #### Q: How can I contribute to your project or community when I see someone said something on a different site or community which directly makes me feel awful?
 
 We are not in the business of policing people's personal lives.  Hopefully they also don't give a shit about that when they are here.  Part of not discriminating against people, is not discriminating against people.  This is not world court.  Sometimes people have different views.  Just because they express this elsewhere, doesn't mean we give a shit.  If you are so stuck that a member of our community does or is something you don't like elsewhere, then you should probably not be here.
