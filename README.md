@@ -65,7 +65,3 @@ There is no signup.  You can reach out to us on tumblr [here](http://nocodeofcon
 #### Q: You must be a middle aged white man living in the US that gives no shits and does not tolerate people from any background?
 
 Actually, that could not be farther from the truth.  I work at an organization that builds products for gay community, in fact.  But am sick of having some of my favorite projects bogged down because people love drama.  I am especially sick of feeling like people feel they want a someone to prepare a special place for people like me and our special needs.  We just want to be like everyone else.
-
-#### Q: You are a coward for not being clear who you are and telling us!
-
-Why, so you can make a public example out of how I hate $YOUR_SOCIAL_ISSUE?  Did you read this?  Unfortunately, if I were to tell people who I am, they would come after me personally, the projects I am involved with, and possibly get me even fired!  I have a point to make, but I'm not stupid.
