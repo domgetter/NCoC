@@ -6,9 +6,9 @@ No Code-Of-Conduct is a groundbreaking new idea.  Designed to help you find comm
 
 1. We are all adults.  Capable of having adult discussions.
 
-2. We accept everyones contributions, we don't care if you're liberal or conservative, black or white, straight or gay, or anything in between!  In fact, we won't bring it up, or ask.  We simply don't give a shit.
+2. We accept everyones contributions, we don't care if you're liberal or conservative, black or white, straight or gay, or anything in between!  In fact, we won't bring it up, or ask.  We simply do not care.
 
-3. Nothing else fucking matters!
+3. Nothing else matters!
 
 #### Q: What if, this makes me feel discriminated against?
 
@@ -24,7 +24,7 @@ Please see "good list" above,  There is plenty of proof that not having a CoC is
 
 #### Q: What about non-internet communications, such as a place of work, or a conference?
 
-These understandably are different.  Often sane communities will have a CoC that is unique to their physical location, and/or event.  In different parts of the world, the needs are different (see "he" vs "she" vs "they" vs people that do not have english as their primary language).  We are talking about the internet here, not physical meet ups, and that requires we not give a shit about the unimportant parts of how people talk.
+These understandably are different.  Often sane communities will have a CoC that is unique to their physical location, and/or event.  In different parts of the world, the needs are different (see "he" vs "she" vs "they" vs people that do not have english as their primary language).  We are talking about the internet here, not physical meet ups, and that requires we do not care about the unimportant parts of how people talk.
 
 #### Q: Without a CoC, how would this community be welcoming to newcomers, and not become vile, intimidating, or have some other type of unwelcome agenda.
 
@@ -44,7 +44,7 @@ Off topic chatter should be discouraged, but not censored. NCoC is targeting thi
 
 #### Q: How can I contribute to your project or community when I see someone said something on a different site or community which directly makes me feel awful?
 
-We are not in the business of policing people's personal lives.  Hopefully they also don't give a shit about that when they are here.  Part of not discriminating against people, is not discriminating against people.  This is not world court.  Sometimes people have different views.  Just because they express this elsewhere, doesn't mean we give a shit.  If you are so stuck that a member of our community does or is something you don't like elsewhere, then you should probably not be here.
+We are not in the business of policing people's personal lives.  Hopefully they also don't care about that when they are here.  Part of not discriminating against people, is not discriminating against people.  This is not world court.  Sometimes people have different views.  Just because they express this elsewhere, doesn't mean we don't care.  If you are so stuck that a member of our community does or is something you don't like elsewhere, then you should probably not be here.
 
 #### Q: As a community manager or leader, what happens when the mob arrives, or when someone starts to engage in discussion that could lead to more endless discussion?
 
@@ -60,8 +60,8 @@ We are not a support group for human emotion.  We are a community that strives t
 
 #### Q: OMG this is a breath of fresh air, where do I sign up?
 
-There is no signup.  You can reach out to us on tumblr [here](http://nocodeofconduct.com/) and we will add your name to our list so people can know you also, do not give a single shit about being bogged down with social issues that are not the point of your community.
+There is no signup.  You can reach out to us on tumblr [here](http://nocodeofconduct.com/) and we will add your name to our list so people can know you also, do not care in the least about being bogged down with social issues that are not the point of your community.
 
-#### Q: You must be a middle aged white man living in the US that gives no shits and does not tolerate people from any background?
+#### Q: You must be a middle aged white man living in the US that couldn't care less and does not tolerate people from any background?
 
 Actually, that could not be farther from the truth.  I work at an organization that builds products for gay community, in fact.  But am sick of having some of my favorite projects bogged down because people love drama.  I am especially sick of feeling like people feel they want a someone to prepare a special place for people like me and our special needs.  We just want to be like everyone else.
