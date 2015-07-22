@@ -21,7 +21,7 @@ Feel free to talk about, discuss, and promote No Code of Conduct anywhere you wi
 
 #### Q: What if, this makes me feel discriminated against?
 
-If you feel this way simply because we do not have a code of conduct, it is hard for anyone to relate to you.  This is not intended to discriminate against anyone.  Simply because we don't baby sit people on our site to make sure they treat you with respect, does not mean we hope you feel unwelcome, or that you are treated without respect.  That is just not something we have time for.
+If you feel this way simply because we do not have a code of conduct, it is hard for anyone to relate to you.  This is not intended to discriminate against anyone.  Simply because we don't babysit people on our site to make sure they treat you with respect, does not mean we hope you feel unwelcome, or that you are treated without respect.  That is just not something we have time for.
 
 #### Q: Without a CoC, how would I possibly feel safe engaging in your community?  How would I raise a red flag if I am mistreated?
 
