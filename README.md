@@ -45,7 +45,7 @@ That wasn't really a question, but we will answer it anyways.  This is an exampl
 
 #### Q: Oh no, it has definitely happened!  Someone has treated me unfairly, and I'm 100% sure its related to something about who I am, and not related to what I have said or contributed directly.
 
-Email that person, and try to work it out.  Email the owners of the community, and alert them.  Whatever do you, do not make a scene, as that will burden the entire community with your issue.  If it's truly a problem and you're truly an asset to the community then you will probably get an email back. Sometimes, you have to be the bigger person.  Say your piece privately, and don't dwell on it.  Remember, this is not the time or place to start these kind of discussions.  If someone else did this to you, that is unclassy, but there is only so much a moderator and personal discussion can accomplish.  I am afraid that bringing to a larger group will be of poor form, and not helpful.
+Email that person, and try to work it out.  Email the owners of the community, and alert them.  Whatever you do, do not make a scene, as that will burden the entire community with your issue.  If it's truly a problem and you're truly an asset to the community then you will probably get an email back. Sometimes, you have to be the bigger person.  Say your piece privately, and don't dwell on it.  Remember, this is not the time or place to start these kind of discussions.  If someone else did this to you, that is unclassy, but there is only so much a moderator and personal discussion can accomplish.  I am afraid that bringing to a larger group will be of poor form, and not helpful.
 
 #### Q: What about off-topic chatter?
 
