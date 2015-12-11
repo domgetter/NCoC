@@ -2,7 +2,7 @@
 
 No Code Of Conduct is a groundbreaking new idea.  Designed to help you find communities and projects that will not get stuck endlessly debating how members should behave in their communities, only to be found to never be fully resolved to anyone's liking.
 
-#### What if.. we all agreed?
+#### What if... we all agreed?
 
 1. We are all adults.  Capable of having adult discussions.
 
