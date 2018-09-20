@@ -29,7 +29,7 @@ The way you would go about this in any other discussion forum.  If you limit you
 
 #### Q:  If you don't have a CoC, this will surely be the end of your project, and the end of some talented individuals contributing to it!
 
-There is plenty of proof that not having a CoC is a workable solution.  While the linux community for example may not be warm and helpful, there is nothing wrong or offensive about it, and you certainly will not be harassed unless you harass people there.
+There is plenty of proof that not having a CoC is a workable solution.  While the linux community for example was not warm and helpful, there was nothing wrong or offensive about it, and you certainly would not be harassed unless you harassed people there.
 
 #### Q: What about non-internet communications, such as a place of work, or a conference?
 
