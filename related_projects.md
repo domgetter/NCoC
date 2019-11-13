@@ -1,3 +1,3 @@
 # Related Projects
 
-  * [Code of Merit](https://github.com/rosarior/Code-of-Merit)
+  * [Code of Merit](https://github.com/DuckHP/Code-of-Merit)
